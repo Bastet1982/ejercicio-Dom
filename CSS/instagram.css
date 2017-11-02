@@ -1,0 +1,53 @@
+
+.logo{
+	height: 30px;
+	width:30px;
+	padding-left:  500px;
+
+}
+.container-center{
+	padding-left: 300px;
+	padding-top: 220px;
+}
+.cat{
+	border: 1px solid black;
+	background: grey;
+	padding: 20px;
+	height: 70%;
+	width:60%;	
+}
+
+.txt{
+	
+}
+
+
+#cont{
+	margin-left: 1em;
+}
+#cont div{
+	padding: 1em 0.5em;
+	margin-bottom: 2em;
+	outline: 0.1em solid #E5E3F2;
+	background-color: #FFF;
+}
+
+.heart, .trash{
+	margin:1em;
+	float:right;
+}
+
+.strike-out{
+	text-decoration: line-through;
+	color:#1DA1F2;
+}
+
+.red{
+	color :#FC1E26;
+	cursor:pointer;
+}
+
+p{
+	display:inline-block;
+	margin-left: :0.5em;
+}
